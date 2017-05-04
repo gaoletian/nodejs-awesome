@@ -17,11 +17,15 @@
 
 [七天学会 nodejs](http://wiki.jikexueyuan.com/project/nodejs-guide/)
 
+[饿了么大前端 Node.js 进阶教程](https://cnodejs.org/topic/58ad76db7872ea0864fedfcc)
+
 # Node.js垃圾回收与内存管理
 
 [深入理解Node.js垃圾回收与内存管理](http://www.jianshu.com/p/4129a3fce7bb)
 
 [如何用alinode来优化你的node程序](https://alinode.aliyun.com/blog/31)
+
+[Node.js 垃圾回收](https://eggggger.xyz/2016/10/22/node-gc/)
 
 ## 社区
 
