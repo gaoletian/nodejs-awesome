@@ -8,11 +8,21 @@
 [JavaScript 参考文档及手册](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
 
 ## nodejs系列教程
+
+[外国大厂对 node.js 工程师的建议](https://juejin.im/entry/59082f6ea22b9d0065f26a5c)
+
 [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
 
 [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/)
 
 [七天学会 nodejs](http://wiki.jikexueyuan.com/project/nodejs-guide/)
+
+# Node.js垃圾回收与内存管理
+
+[深入理解Node.js垃圾回收与内存管理](http://www.jianshu.com/p/4129a3fce7bb)
+
+[如何用alinode来优化你的node程序](https://alinode.aliyun.com/blog/31)
+
 ## 社区
 
 [nodejs中文社区](https://cnodejs.org/)
@@ -46,3 +56,5 @@
 # 证书与数字签名
 
 [数字签名是什么](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)
+
+
